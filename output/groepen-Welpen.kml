@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>Scouting Elfregi Zaanstreek</name>
+            <Point id="2">
+                <coordinates>4.819125800,52.447517100,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>Scouting Nautilus Delft</name>
+            <Point id="4">
+                <coordinates>4.36906382,52.01987966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Scouting Den Hoorn</name>
+            <Point id="6">
+                <coordinates>4.32892400,51.99598013,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Grevelingengroep</name>
+            <Point id="8">
+                <coordinates>3.916323900,51.730324800,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>Mees Toxopeus</name>
+            <Point id="10">
+                <coordinates>4.63408520,52.48872423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Fridtjof Nansen Groep 12</name>
+            <Point id="12">
+                <coordinates>4.50751632,51.84146042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>De Geuzen</name>
+            <Point id="14">
+                <coordinates>4.34532173,51.91175385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>Scouting St. Martinus</name>
+            <Point id="16">
+                <coordinates>5.23422157,51.81031235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>Cornelis Lelygroep</name>
+            <Point id="18">
+                <coordinates>5.21027457,52.35172307,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Scouting Hank</name>
+            <Point id="20">
+                <coordinates>4.89321562,51.72649543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Marco Polo</name>
+            <Point id="22">
+                <coordinates>4.757145100,52.626511400,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>Kon-Tiki</name>
+            <Point id="24">
+                <coordinates>4.65536104,52.40322975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Leeghwater</name>
+            <Point id="26">
+                <coordinates>4.77349091,52.34184421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>Zwolsche Zeeverkenners</name>
+            <Point id="28">
+                <coordinates>6.15453534,52.52699366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>Cranenborghgroep</name>
+            <Point id="30">
+                <coordinates>4.53917004,52.00106689,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Scouting Vreeswijk (Livingstonegroep en Prins Bernhardgroep)</name>
+            <Point id="32">
+                <coordinates>5.09860665,52.00530251,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>Scouting Baracuda Z.V.</name>
+            <Point id="34">
+                <coordinates>5.09771770,52.02631787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>Michiel Adriaenszn de Ruyter</name>
+            <Point id="36">
+                <coordinates>4.64101775,52.45457250,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>Scouting Loevestein</name>
+            <Point id="38">
+                <coordinates>4.99096636,51.81073109,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>Calandtroep</name>
+            <Point id="40">
+                <coordinates>4.47213730,51.94035139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>Scouting Het Zuiderkruis</name>
+            <Point id="42">
+                <coordinates>4.83759530,51.64513279,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

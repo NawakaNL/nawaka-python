@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="45">
+        <Placemark id="47">
+            <name>TIFLO-groep</name>
+            <Point id="46">
+                <coordinates>4.75233773,52.26395601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>Scouting Den Hoorn</name>
+            <Point id="48">
+                <coordinates>4.32892400,51.99598013,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>Grevelingengroep</name>
+            <Point id="50">
+                <coordinates>3.916323900,51.730324800,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>Mees Toxopeus</name>
+            <Point id="52">
+                <coordinates>4.63408520,52.48872423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>Lodewijck van Praetgroep</name>
+            <Point id="54">
+                <coordinates>4.48375695,51.79280752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>De Geuzen</name>
+            <Point id="56">
+                <coordinates>4.34532173,51.91175385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>Marco Polo</name>
+            <Point id="58">
+                <coordinates>4.757145100,52.626511400,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>Cranenborghgroep</name>
+            <Point id="60">
+                <coordinates>4.53917004,52.00106689,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>Zwolsche Zeeverkenners</name>
+            <Point id="62">
+                <coordinates>6.15453534,52.52699366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>Scouting St. Martinus</name>
+            <Point id="64">
+                <coordinates>5.23422157,51.81031235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>Scouting BvH</name>
+            <Point id="66">
+                <coordinates>4.38398488,51.92518797,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>Doormangroep</name>
+            <Point id="68">
+                <coordinates>3.84675739,51.32859398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>Scouting Hank</name>
+            <Point id="70">
+                <coordinates>4.89321562,51.72649543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>Johan &amp; Cornelis de Witt - Medo</name>
+            <Point id="72">
+                <coordinates>4.68608462,51.81306063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>Scouting Baracuda Z.V.</name>
+            <Point id="74">
+                <coordinates>5.09771770,52.02631787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>Vereniging Scouting Klaas Toxopeus</name>
+            <Point id="76">
+                <coordinates>5.10367836,52.24402078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>Michiel Adriaenszn de Ruyter</name>
+            <Point id="78">
+                <coordinates>4.64101775,52.45457250,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>Scouting Nautilus Delft</name>
+            <Point id="80">
+                <coordinates>4.36906382,52.01987966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>Scouting Loevestein</name>
+            <Point id="82">
+                <coordinates>4.99096636,51.81073109,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>Calandtroep</name>
+            <Point id="84">
+                <coordinates>4.47213730,51.94035139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>TIFLO-groep</name>
+            <Point id="86">
+                <coordinates>4.75233773,52.26395601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>Scouting Het Zuiderkruis</name>
+            <Point id="88">
+                <coordinates>4.83759530,51.64513279,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
