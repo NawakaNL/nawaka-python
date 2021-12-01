@@ -16,15 +16,14 @@ def save_kml(groups):
     # Iterate over speltakken
     for speltak in ["Welpen", "Scouts", "Explorers"]:
         # Select groups for distinct speltakken
-        speltak_groups = groups[
-            groups["Formuliernaam"] == f"2022 - Groepsinschrijving {speltak}"
-        ]
+        speltak_groups = groups[groups["Speltak"] == speltak]
 
         # Create and save KML for each speltak
         kml = simplekml.Kml()
         for i, group in speltak_groups.iterrows():
             kml.newpoint(
                 name=group["title"],
+                address=group["adres.address"],
                 coords=[(group["adres.lng"], group["adres.lat"])],
             )
         kml.save(f"output/groepen-{speltak}.kml")
